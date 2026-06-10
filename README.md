@@ -6,8 +6,6 @@ A comprehensive Node.js backend interview preparation guide covering fundamental
 
 ## Part 1: Node.js Fundamentals & Core Modules (Q1–Q77)
 
-*File: [Part1_Q1_to_Q77.md](./Part1_Q1_to_Q77.md)*
-
 ### Fundamentals (Q1–Q50)
 
 - [Q1. What is Node.js?](./Part1_Q1_to_Q77.md#1-what-is-nodejs)
@@ -95,7 +93,6 @@ A comprehensive Node.js backend interview preparation guide covering fundamental
 
 ## Part 2: Package Management, Express.js, Auth & MongoDB (Q78–Q120)
 
-*File: [Part2_Q78_to_Q130.md](./Part2_Q78_to_Q130.md)*
 
 ### Package Management & Node.js Internals (Q78–Q87)
 
@@ -156,7 +153,6 @@ A comprehensive Node.js backend interview preparation guide covering fundamental
 
 ## Part 3: Advanced Node.js & Backend Concepts (Q121–Q190)
 
-*File: [Part3_Q131_to_Q190.md](./Part3_Q131_to_Q190.md)*
 
 ### Authentication & Security (Q121–Q125)
 
