@@ -1,7 +1,3 @@
-# Node.js Interview Handbook — Part 2 (Q78–Q130)
-
-> Continue from Part 1. Same format, same depth.
-
 ---
 
 ### 78. What is Hashing? (Continued & Completed)
